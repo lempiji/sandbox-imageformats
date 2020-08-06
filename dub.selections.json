@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"imageformats": "7.0.2",
+		"mir-algorithm": "3.4.19",
+		"mir-core": "0.3.5"
+	}
+}

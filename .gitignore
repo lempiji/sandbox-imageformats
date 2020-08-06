@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sandbox-imageformats
+sandbox-imageformats.so
+sandbox-imageformats.dylib
+sandbox-imageformats.dll
+sandbox-imageformats.a
+sandbox-imageformats.lib
+sandbox-imageformats-test-*
+*.exe
+*.o
+*.obj
+*.lst
